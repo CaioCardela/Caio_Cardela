@@ -1,4 +1,4 @@
-## Oiii eu sou a Caio Cardela, estudante de programação e tecnologia!
+## Oiii eu sou o Caio Cardela, estudante de programação e tecnologia!
 
 Codando para ser um dos melhores!
 
